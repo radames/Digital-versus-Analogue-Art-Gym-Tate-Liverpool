@@ -3,3 +3,16 @@
 
 
 Digital versus Analogue Workshop at Art Gym Tate Liverpool March 2016
+
+###Download
+[Processing](https://processing.org/download/?processing)
+
+
+###Instagram Access Token
+
+
+
+####References
+
+[The Philosophy of Digital Art](http://plato.stanford.edu/entries/digital-art/)
+http://research.michaelday.org.uk/2015/06/04/twitter-and-instagram-feeds-in-processing/
