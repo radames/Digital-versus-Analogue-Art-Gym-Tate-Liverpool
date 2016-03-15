@@ -34,7 +34,7 @@
 
 6. Now you have your **Client ID** go to the following website replacing **CLIENT-ID** with the your sequence, and **REDIRECT-URI** with your valid URIs website
 
-https://api.instagram.com/oauth/authorize/?client_id=CLIENT-ID&redirect_uri=REDIRECT-URI&response_type=token
+https://api.instagram.com/oauth/authorize/?client_id=CLIENT-ID&redirect_uri=REDIRECT-URI&response_type=token&scope=public_content
 ![](https://cloud.githubusercontent.com/assets/102277/13771333/e6bc1960-ea84-11e5-9a29-b3d7733b03e5.png)
 
   
