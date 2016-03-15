@@ -8,7 +8,7 @@ Digital versus Analogue Workshop at Art Gym Tate Liverpool March 2016
 [Processing](https://processing.org/download/?processing)
 
 
-###Instagram Access Token
+###[Instagram Access Token](https://github.com/radames/Digital-versus-Analogue-Art-Gym-Tate-Liverpool/blob/master/instagram_access_token.md)
 
 
 
